@@ -5,6 +5,6 @@
         "country": "United States"
     },
 
-    "instructions": "Can you generate queries to find the latest camping trends and what folks are doing in the winter? Use 'en-US' as the market code. "
+    "instructions": "Can you generate queries to find the latest camping trends and what folks are doing in the winter? Use 'es-ES' as the market code. "
 
 }
